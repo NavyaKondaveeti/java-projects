@@ -1,0 +1,43 @@
+{
+  "coord": {
+    "lon": -84.4569,
+    "lat": 39.162
+  },
+  "weather": [
+    {
+      "id": 800,
+      "main": "Clear",
+      "description": "clear sky",
+      "icon": "01n"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 70.86,
+    "feels_like": 70.56,
+    "temp_min": 66.99,
+    "temp_max": 72.82,
+    "pressure": 1012,
+    "humidity": 62
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 6.91,
+    "deg": 40
+  },
+  "clouds": {
+    "all": 0
+  },
+  "dt": 1693527112,
+  "sys": {
+    "type": 2,
+    "id": 2010096,
+    "country": "US",
+    "sunrise": 1693479932,
+    "sunset": 1693527081
+  },
+  "timezone": -14400,
+  "id": 4508722,
+  "name": "Cincinnati",
+  "cod": 200
+}
